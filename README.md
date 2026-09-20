@@ -1,6 +1,6 @@
 # Wearable Alarm Clock
 
-A wrist-worn alarm that wakes a user with simultaneous haptic and auditory feedback, powered by an ESP32 and a coin motor.
+A wrist-worn alarm that wakes a user with simultaneous haptic and auditory feedback, powered by an ESP32 and a coin motor. The device is controlled by a cell phone over Bluetooth Low Energy.
 
 ## Hardware
 * DOIT ESP32 Devkit V1
