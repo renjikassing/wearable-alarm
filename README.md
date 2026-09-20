@@ -4,9 +4,9 @@ A wrist-worn alarm that wakes a user with simultaneous haptic and auditory feedb
 
 ## Hardware
 * DOIT ESP32 Devkit V1
-* Sunfounder Breadvolt Power Supply 5V/3.3V, 500mAh rechargeable battery
+* Sunfounder Breadvolt Power Supply 5V/3.3 V, 500 mAh rechargeable battery
 * Passive buzzer, switch
-* Coin motor, 1N4007, PN2222, 1kΩ resistor
+* Coin motor, 1N4007, PN2222, 1 kΩ resistor
 * Perfboard
 
 ## Schematic
@@ -35,7 +35,7 @@ A wrist-worn alarm that wakes a user with simultaneous haptic and auditory feedb
 9. The device's workflow is now reset, and a new alarm may be configured upon powering on.
 
 ## Power
-The device uses a 500mAh battery and has an approximate battery life of 50 hours. Deep sleep mode is used to conserve power.
+The device uses a 500 mAh battery and has an approximate battery life of 50 hours. Deep sleep mode is used to conserve power.
 
 ## Software
 The ESP32 firmware is written in C++ within the Arduino framework. The source code is included in this repository as "wearable_alarm_flash.ino".
