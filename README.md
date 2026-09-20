@@ -5,7 +5,7 @@ A wrist-worn alarm that wakes a user with simultaneous haptic and auditory feedb
 ## Hardware
 * DOIT ESP32 Devkit V1
 * Sunfounder Breadvolt Power Supply 5V/3.3V, 500mAh rechargeable battery
-* Passive buzzer
+* Passive buzzer, switch
 * Coin motor, 1N4007, PN2222, 1kΩ resistor
 * Perfboard
 
